@@ -38,7 +38,7 @@ void putstr(char *string)
 /**
  *_putchar - Prints a character to standard error
  *@c: Character to be printed
- *Author: Olawale and Abiola (Cohort 18 - ALX)
+ *Author: Olawale and Hemsham  (Cohort 19 - ALX)
  *Return: An integer
  */
 
